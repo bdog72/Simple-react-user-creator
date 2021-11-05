@@ -3,7 +3,7 @@
 
 import React from 'react';
 
-import '../../css/Error.module.css';
+import '../../css/ErrorModal.module.css';
 
 const ErrorModal = () => {
   return (
